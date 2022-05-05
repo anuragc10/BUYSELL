@@ -22,9 +22,11 @@ const Mainfooter = () => {
             <Link to="/policy">Policy</Link>
           </li>
           <li>
+            <Link to="/">Contact Us</Link>
             <Link to="/contact">Contact Us</Link>
           </li>
           <li>
+            <Link to="/">Feedback</Link>
             <Link to="/feedback">Feedback</Link>
           </li>
         </ul>

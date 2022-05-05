@@ -31,7 +31,7 @@ const Policy = () => {
         <p>
           <b>
             <FontAwesomeIcon className="i1" icon={faCopyright} /> Anurag&nbsp;
-            Shivank &nbsp; Divyansh
+            Shivank &nbsp; Amar
           </b>
         </p>
       </div>
